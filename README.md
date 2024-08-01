@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @wagnerptr
-- 👀 I’m interested in full-stack web development.
+- 👀 I’m interested in full-stack development.
 - 🌱 
 - 💞️ I’m not looking for collaboration at the moment.
 - 📫 How to reach me: 
